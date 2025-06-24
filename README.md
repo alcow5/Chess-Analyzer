@@ -183,7 +183,7 @@ When prompted, enter your Chess.com username. The script will:
 - Check that you have played games in the specified year
 
 **Slow analysis:**
-- The first run analyzes all games and may take 10-30 minutes
+- The first run analyzes all games and may take 3-5 minutes
 - Subsequent runs use cached data and are much faster
 
 ---
