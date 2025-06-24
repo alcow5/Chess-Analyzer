@@ -34,8 +34,8 @@ A powerful Python tool for analyzing your Chess.com games using Stockfish (with 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/chess-llm-analyzer.git
-cd chess-llm-analyzer
+git clone https://github.com/alcow5/chess-analyzer.git
+cd chess-analyzer
 ```
 
 ### Step 2: Install Python Dependencies
