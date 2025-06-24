@@ -1,0 +1,5 @@
+# Chess Insight Analyzer Environment Variables
+# Copy this file to .env and add your actual API key
+
+# OpenAI API Key - Get from https://platform.openai.com/
+OPENAI_API_KEY=your_openai_api_key_here 
